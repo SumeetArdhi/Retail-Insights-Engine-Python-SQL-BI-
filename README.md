@@ -133,8 +133,4 @@ Unlike basic dashboards, this project:
 * Deploy dashboard online
 * Integrate machine learning for predictions
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
